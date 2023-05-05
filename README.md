@@ -10,7 +10,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 
 |  | Sessions | Keywords |
 |:--|:---|:---:|
-| 1 | Code Cells | 🐾 Insert/Delete a code cell & text cell ((https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb))|  
+| 1 | Code Cells | 🐾 [Insert/Delete a code cell & text cell] ((https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb))|  
 | 2 | Five Types of Data |  |
 | 3 | Indexing & Slicing |  |
 | 4 | If Statement; For Statment |  | 
