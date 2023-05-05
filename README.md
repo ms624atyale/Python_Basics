@@ -3,8 +3,8 @@
 # :a::hamster::paw_prints: Python Language
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
-### **Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
-### **Sign up Google Colaboratory (aka. Colab) ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=2X_EU18OeYM))
+### ** <font color = 'red'> Sign up github** ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=c-NikCpec7U))
+### ** <font color = 'red'> Sign up Google Colaboratory (aka. Colab) ([Visit a tutorial on Youtube](https://www.youtube.com/watch?v=2X_EU18OeYM))
 
 |  | Sessions | Keywords |
 |:--|:---|:---:|
