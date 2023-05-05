@@ -32,4 +32,12 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 20 | Samples for Natural Language Processing |  | 
 | 21 | URL|  | 
 
+
+Some applications
+
+|  | Topic | Keywords |
+|:--|:---|:---:|
+| 1 | Pronunciation Drills | 🐾 [Text-to-Speech](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb)| 
+| 1 | Phonetics | 🐾 [Vowel Chart, Generating word lists](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb)| 
+
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
