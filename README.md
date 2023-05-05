@@ -37,7 +37,7 @@ Some applications
 
 |  | Topic | Keywords |
 |:--|:---|:---:|
-| 1 | Pronunciation Drills | 🐾 [Text-to-Speech](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb)| 
-| 1 | Phonetics | 🐾 [Vowel Chart, Generating word lists](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb)| 
+| 1 | Pronunciation Drills | 🐾 [Text-to-Speech](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)| 
+| 2| Phonetics | 🐾 [Vowel Chart, Generating word lists](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb)| 
 
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
