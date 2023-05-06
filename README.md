@@ -19,7 +19,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 7  | Some Symbols | ➕= ❗=  | 
 | 8  | Defining Functions | 🍔 🍧  | 
 | 9  | Global & Local Parameters | 🌐  | 
-| 10 | Install a Package, Import a Module, & Call a Function | [🎁🎒🎒🏀 ⚽ ⚾Packages, Modules, Functions](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb) | 
+| 10 | Install a Package, Import a Module, & Call a Function | [🎁🎒⚽Packages, Modules, Functions](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb) | 
 | 11 | Files & Miscellaneous | 💻  | 
 | 12 | Class & Method | 🔐  | 
 | 13 | Try ~ Except~ Statement |  | 
