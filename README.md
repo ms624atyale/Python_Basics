@@ -38,7 +38,7 @@ Some applications
 |  | Topic | Keywords |
 |:--|:---|:---:|
 | 1 | Pronunciation Drills |  🔉🎧 [Base: texts, html](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)| 
-| 2| Vocabulary Drills | 💻 [Words by GC, Ryming, Vowel (Chart]https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
+| 2| Vocabulary Drills | 💻 [Words by GC, Ryming, Vowel Chart](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
 | 3| Corpus | 📚
 | 4| Word Cloud | ⛅
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
