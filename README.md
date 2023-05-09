@@ -13,7 +13,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 1 | Code Cells | [🐾](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)|  
 | 2 | Five Types of Data | [🔢 🆎](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|
 | 3 | Indexing & Slicing | [📌](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)|
-| 4 | If Statement; For Statment | [🌈](https://github.com/ms624atyale/Python_Basics/blob/main/4_1_IfStatement.ipynb) 🔂 (https://github.com/ms624atyale/Python_Basics/blob/main/4_2_ForStatement.ipynb)| 
+| 4 | If Statement; For Statment | [🌈](https://github.com/ms624atyale/Python_Basics/blob/main/4_1_IfStatement.ipynb) [🔂](https://github.com/ms624atyale/Python_Basics/blob/main/4_2_ForStatement.ipynb)| 
 | 5 | Understanding Numbers | [🔢](https://github.com/ms624atyale/Python_Basics/blob/main/5_UnderstandingNumbers.ipynb)| 
 | 6 | Operators | [➕ ➖ ✖️ ➗](https://github.com/ms624atyale/Python_Basics/blob/main/6_Operators.ipynb)| 
 | 7  | Some Symbols | [➕= ❗=](https://github.com/ms624atyale/Python_Basics/blob/main/7_SomeSymbols.ipynb)| 
