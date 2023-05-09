@@ -8,8 +8,8 @@
 
 Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 
-|  | Sessions | Keywords |Sessions | Keywords |
-|:--|:---|:---:|:---|:---:|
+|  | Sessions | Keywords ||Sessions | Keywords |
+|:--|:---|:---:|:---|:---:|:---:|
 | 1 | Code Cells | [🐾](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 11 | Files & Miscellaneous | [💻](https://github.com/ms624atyale/Python_Basics/blob/main/11_Files_Misc.ipynb)|  
 | 2 | Five Types of Data | [🔢 🆎](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|12 | Class & Method | [🔐](https://github.com/ms624atyale/Python_Basics/blob/main/12_Class_Method.ipynb)| 
 | 3 | Indexing & Slicing | [📌](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)|13 | Try ~ Except~ Statement |[🚦](https://github.com/ms624atyale/Python_Basics/blob/main/13_try_Except.ipynb)| 
@@ -20,7 +20,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 8  | Defining Functions | [🍔 🍧](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)|18 | More about Strings, Functions, and Factors | [🐹](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)|  
 | 9  | Global & Local Parameters | [🌐](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)|19 | Files | [🔍](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
 | 10 | Package, Module, & Function | [🎁](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|20 | URL|[🔵](https://github.com/ms624atyale/Python_Basics/blob/main/21_URL.ipynb)|   
-|||21 | Samples for Natural Language Processing |[💯](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)|
+||||21 | Samples for Natural Language Processing |[💯](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)|
 
 Some applications
 
