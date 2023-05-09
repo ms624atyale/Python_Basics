@@ -25,7 +25,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 13 | Try ~ Except~ Statement |[🚦](https://github.com/ms624atyale/Python_Basics/blob/main/13_try_Except.ipynb)| 
 | 14 | More on Python |[❗](https://github.com/ms624atyale/Python_Basics/blob/main/14_MoreonPython.ipynb)| 
 | 15 | String | [🆎](https://github.com/ms624atyale/Python_Basics/blob/main/15_AboutSrings.ipynb)| 
-| 16 | ]List | [🚙,🚗,🚒,🚑,🚎](https://github.com/ms624atyale/Python_Basics/blob/main/16_Lists.ipynb)| 
+| 16 | List | [🚙,🚗,🚒,🚑,🚎](https://github.com/ms624atyale/Python_Basics/blob/main/16_Lists.ipynb)| 
 | 17 | Dictionary | [{🌈:7}](https://github.com/ms624atyale/Python_Basics/blob/main/17_Dictionary.ipynb)| 
 | 18 | More about Strings, Functions, and Factors | [🐹](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)| 
 | 19 | Files | [🔍](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)| 
