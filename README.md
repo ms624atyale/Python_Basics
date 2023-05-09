@@ -8,7 +8,7 @@
 
 Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 
-|  | Sessions | Keywords ||Sessions | Keywords |
+| # | Sessions | Keywords |#|Sessions | Keywords |
 |:--|:---|:---:|:---|:---:|:---:|
 | 1 | Code Cells | [🐾](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 11 | Files & Miscellaneous | [💻](https://github.com/ms624atyale/Python_Basics/blob/main/11_Files_Misc.ipynb)|  
 | 2 | Five Types of Data | [🔢 🆎](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|12 | Class & Method | [🔐](https://github.com/ms624atyale/Python_Basics/blob/main/12_Class_Method.ipynb)| 
