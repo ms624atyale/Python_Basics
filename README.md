@@ -20,7 +20,7 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 8  | Defining Functions | [🍔 🍧](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)|18 | More about Strings, Functions, and Factors | [🐹](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)|  
 | 9  | Global & Local Parameters | [🌐](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)|19 | Files | [🔍](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
 | 10 | Package, Module, & Function | [🎁](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|20 | URL|[🔵](https://github.com/ms624atyale/Python_Basics/blob/main/21_URL.ipynb)|   
-||21 | Samples for Natural Language Processing |[💯](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)||
+|||21 | Samples for Natural Language Processing |[💯](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)|
 
 Some applications
 
