@@ -11,8 +11,8 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | # | Sessions | Keywords |#|Sessions | Keywords |
 |:--|:---|:---:|:---|:---:|:---:|
 | 1 | Code Cells | [🐾](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 11 | Files & Miscellaneous | [💻](https://github.com/ms624atyale/Python_Basics/blob/main/11_Files_Misc.ipynb)|  
-| 2 | Five Types of Data | [🔢 🆎](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|12 | Class & Method | [🔐](https://github.com/ms624atyale/Python_Basics/blob/main/12_Class_Method.ipynb)| 
-| 3 | Indexing & Slicing | [📌](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)|13 | Try ~ Except~ Statement |[🚦](https://github.com/ms624atyale/Python_Basics/blob/main/13_try_Except.ipynb)| 
+| 2 | Five Types of Data | [🔢 🆎](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|12 | Class & Method | [🔒 🔑](https://github.com/ms624atyale/Python_Basics/blob/main/12_Class_Method.ipynb)| 
+| 3 | Indexing & Slicing | [📌✂️ ](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)|13 | Try ~ Except~ Statement |[🚦](https://github.com/ms624atyale/Python_Basics/blob/main/13_try_Except.ipynb)| 
 | 4 | If Statement; For Statment | [If 🌈](https://github.com/ms624atyale/Python_Basics/blob/main/4_1_IfStatement.ipynb) [For🔂](https://github.com/ms624atyale/Python_Basics/blob/main/4_2_ForStatement.ipynb)|14 | More on Python |[❗](https://github.com/ms624atyale/Python_Basics/blob/main/14_MoreonPython.ipynb)|  
 | 5 | Understanding Numbers | [🔢](https://github.com/ms624atyale/Python_Basics/blob/main/5_UnderstandingNumbers.ipynb)|15 | String | [🆎](https://github.com/ms624atyale/Python_Basics/blob/main/15_AboutSrings.ipynb)|  
 | 6 | Operators | [➕ ➖ ✖️ ➗](https://github.com/ms624atyale/Python_Basics/blob/main/6_Operators.ipynb)|16 | List | [🚙,🚗,🚒,🚑,🚎](https://github.com/ms624atyale/Python_Basics/blob/main/16_Lists.ipynb)|  
