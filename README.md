@@ -9,7 +9,7 @@
 Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 
 | # | Sessions | Keywords |#|Sessions | Keywords |
-|:--|:---|:---:|:---|:---:|:---:|
+|:--|:--|:---:|:--|:--|:--:|
 | 1 | Code Cells🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 11 | Files & Miscellaneous💻 | [rt, rb, open, close](https://github.com/ms624atyale/Python_Basics/blob/main/11_Files_Misc.ipynb)|  
 | 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)|12 | Class & Method🔒🔑 | [instant object, class number, class method, etc. ](https://github.com/ms624atyale/Python_Basics/blob/main/12_Class_Method.ipynb)| 
 | 3 | Indexing & Slicing📌✂️ | [0, -1, :](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)|13 | Try ~ Except~ Statement🚦 |[try~except](https://github.com/ms624atyale/Python_Basics/blob/main/13_try_Except.ipynb)| 
