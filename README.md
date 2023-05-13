@@ -27,7 +27,7 @@ Some applications
 |  | Topic | Keywords |
 |:--|:---|:---:|
 | 1 | Pronunciation Drills 🔉🎧 | [input, audio](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)| 
-| 2 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud]((https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb))|
+| 2 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
 | 3 | Vocabulary Drills 💻| [Words by GC, Ryming, Vowel Chart](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
 | 4|   | |
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
