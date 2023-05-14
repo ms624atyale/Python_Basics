@@ -26,7 +26,7 @@ Some applications
 
 |  | Topic | Keywords |
 |:--|:---|:---:|
-| 1 | Pronunciation Drills 🔉🎧 | [input, audio](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)| 
+| 1 | Pronunciation Drills 🔉🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)| 
 | 2 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
 | 3 | Vocabulary Drills 💻| [Words by GC, Ryming, Vowel Chart](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
 | 4| NLP & Digital Humanities 📈😮🐳| [NLP, Topic Modeling, Sentiment Analysis, Clustering Analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
