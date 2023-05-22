@@ -20,7 +20,8 @@ Python Basics (Python Exercises 200 (by 장삼용. 정보문화사 2017)
 | 8  | Defining Functions🍔 | [function, factors](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)|18 | More about Strings, Functions, and Factors🐹 | [strings, functions, &factors](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)| 
 | 9  | Global & Local Parameters🌐 | [global, local](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)|19 | Files🔍 | [step-by-step, big-size data](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
 | 10 | Package, Module, & Function🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|20 | URL🔵|[print html, save html, save image as rb](https://github.com/ms624atyale/Python_Basics/blob/main/21_URL.ipynb)|   
-|Extra|Github markdown emoji 🐹 Markdown syntax |[cute stuff](https://gist.github.com/rxaviers/7360908)[bullets, font colr](https://www.markdownguide.org/basic-syntax/) |22| Samples for Natural Language Processing💯|[replace, append, pop, queries, lottery](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)|
+|Extra1|Github markdown emoji 🐹 Markdown syntax |[cute stuff](https://gist.github.com/rxaviers/7360908)[bullets, font colr](https://www.markdownguide.org/basic-syntax/) |22| Samples for Natural Language Processing💯|[replace, append, pop, queries, lottery](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)|
+|Extra2| Markdown syntax 🐹  |[bullets, font colr](https://www.markdownguide.org/basic-syntax/) |23| Under construction💯|[]()|
 
 Some applications
 
