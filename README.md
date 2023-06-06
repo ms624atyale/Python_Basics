@@ -38,7 +38,7 @@ Some applications
 | 3 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
 | 4 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
 | 5 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
-| 6 | Vocabulary Drills 💻| [Words by GC, Ryming, Vowel Chart](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
+| 6 | Vocabulary Drills 💻| [Words by GC, Rhyming, English Vowel Chart, Minimal Pair, Rhyme-sharing Word List](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
 | 7 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
 | 8 | Digital Humanities 📈😮🐳| [Topic Modeling, Sentiment Analysis, Clustering Analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
