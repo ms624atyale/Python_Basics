@@ -12,7 +12,7 @@ Python Basics
 
 | # | Sessions | Keywords |#|Sessions | Keywords |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | Code Cells🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 13 | Step-by-step Files 🐣 | [rt, rb, open, close, url, UFT-8, Save on your machine, Upload txt files on Colab](https://github.com/ms624atyale/Python_Basics/blob/main/11_Files_Misc.ipynb)|  
+| 1 | Code Cells🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 13 | Step-by-step Files 🐣 | [rt, rb, open, close, url, UFT-8, Save on your machine, Upload txt files on Colab, Save Image(unsuccessful yet)](https://github.com/ms624atyale/Python_Basics/blob/main/30_ReadFilesImportingfrom_html.ipynb)|  
 | 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 14 | Class & Method🔒🔑 | [instant object, class number, class method, etc. ](https://github.com/ms624atyale/Python_Basics/blob/main/14_Class_Method.ipynb)| 
 | 3 | Indexing & Slicing📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 15 | More on Python❗|[more](https://github.com/ms624atyale/Python_Basics/blob/main/14_MoreonPython.ipynb)|
 | 4 | If Statement | [if ~ else:](https://github.com/ms624atyale/Python_Basics/blob/main/4_1_IfStatement.ipynb)| 16 | Try Statement🚦 |[try ~ except ~ else]([](https://github.com/ms624atyale/Python_Basics/blob/main/4_3_tryExceptElse_Statement.ipynb)| 
@@ -22,7 +22,7 @@ Python Basics
 | 8  | Some Symbols➕= ❗= | [rules for symbol use](https://github.com/ms624atyale/Python_Basics/blob/main/7_SomeSymbols.ipynb)|20 | Dictionary{🌎:3} | [{'earth':3}](https://github.com/ms624atyale/Python_Basics/blob/main/17_Dictionary.ipynb)|  
 | 9  | Defining Functions🍔 | [function, factors](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)| 21 | More about Strings, Functions, and Factors🐹 | [strings, functions, &factors](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)| 
 | 10  | Global & Local Parameters🌐 | [global, local](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)| 22 | Files🔍 | [step-by-step, big-size data](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
-| 11 | Package, Module, & Function🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | URL🔵|[print html, save html, save image as rb](https://github.com/ms624atyale/Python_Basics/blob/main/21_URL.ipynb)|   
+| 11 | Package, Module, & Function🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | | |   
 |12 | Samples for Natural Language Processing💯|[replace, append, pop, queries, lottery](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)| 24 | Under construction💯|[]()|
 |Extra1|Github Markdown Emoji 🐹 |[cute stuff](https://gist.github.com/rxaviers/7360908) |Extra2| Markdown Syntax 🐣 |[bullets, font color](https://www.markdownguide.org/basic-syntax/) |
 
