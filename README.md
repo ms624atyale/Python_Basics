@@ -13,7 +13,7 @@ Python Basics
 
 | # | Sessions | Keywords |#|Sessions | Keywords |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | Code Cells🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 13 | Step-by-step Files 🐣 | [rt, rb, open, close, url, UFT-8, Save on your machine, Upload txt files on Colab, Save Image(unsuccessful yet)](https://github.com/ms624atyale/Python_Basics/blob/main/30_ReadFilesImportingfrom_html.ipynb)|  
+| 1 | Code Cells🐾 | [variable, assign](https://github.com/ms624atyale/Python_Basics/blob/main/1_CodeCells_Basic_.ipynb)| 13 | Step-by-step Files 🐣 | [rt, rb, open, close, url, UTF-8, Save on your machine, Upload txt files on Colab, Save Image(unsuccessful yet)](https://github.com/ms624atyale/Python_Basics/blob/main/30_ReadFilesImportingfrom_html.ipynb)|  
 | 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://github.com/ms624atyale/Python_Basics/blob/main/2_FiveTypesofData.ipynb)| 14 | Class & Method🔒🔑 | [instant object, class number, class method, etc. ](https://github.com/ms624atyale/Python_Basics/blob/main/14_Class_Method.ipynb)| 
 | 3 | Indexing & Slicing📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/Python_Basics/blob/main/3_Indexing_Slicing.ipynb)| 15 | More on Python❗|[more](https://github.com/ms624atyale/Python_Basics/blob/main/14_MoreonPython.ipynb)|
 | 4 | If Statement | [if ~ else:](https://github.com/ms624atyale/Python_Basics/blob/main/4_1_IfStatement.ipynb)| 16 | Try Statement🚦 |[try ~ except ~ else]([](https://github.com/ms624atyale/Python_Basics/blob/main/4_3_tryExceptElse_Statement.ipynb)| 
