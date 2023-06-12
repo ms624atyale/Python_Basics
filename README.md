@@ -22,8 +22,8 @@ Python Basics
 | 7 | Operators ➕➖✖️➗ | [basic operators](https://github.com/ms624atyale/Python_Basics/blob/main/6_Operators.ipynb)| 19 | List 🚙,🚗 | [[1,'a','ABC']](https://github.com/ms624atyale/Python_Basics/blob/main/16_Lists.ipynb)|  
 | 8  | Some Symbols ➕= ❗= | [rules for symbol use](https://github.com/ms624atyale/Python_Basics/blob/main/7_SomeSymbols.ipynb)|20 | Dictionary{🌎:3} | [{'earth':3}](https://github.com/ms624atyale/Python_Basics/blob/main/17_Dictionary.ipynb)|  
 | 9  | Defining Functions 🍔 | [function, factors](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)| 21 | More about Strings, Functions, and Factors 🐹 | [strings, functions, &factors](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)| 
-| 10  | Global & Local Parameters 🌐 | [global, local](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)| 22 | Files🔍 | [step-by-step, big-size data](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
-| 11 | Package, Module, & Function 🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | Class | Object |   
+| 10  | Global & Local Parameters 🌐 | [global, local](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)| 22 | Files 🔍 | [step-by-step, big-size data](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
+| 11 | Package, Module, & Function 🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | Class 📂 🎲 | Object |   
 |12 | Samples for Natural Language Processing 💯|[replace, append, pop, queries, lottery](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)| 24 | Under construction 💯|[]()|
 |Extra1|Github Markdown Emoji 🐹 |[cute stuff](https://gist.github.com/rxaviers/7360908) |Extra2| Markdown Syntax 🐣 |[bullets, font color](https://www.markdownguide.org/basic-syntax/) |
 
