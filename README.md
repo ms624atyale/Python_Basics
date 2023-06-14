@@ -23,7 +23,7 @@ Python Basics
 | 8  | Some Symbols ➕= ❗= | [rules for symbol use](https://github.com/ms624atyale/Python_Basics/blob/main/7_SomeSymbols.ipynb)|20 | Dictionary{🌎:3} | [{'earth':3}](https://github.com/ms624atyale/Python_Basics/blob/main/17_Dictionary.ipynb)|  
 | 9  | Defining Functions 🍔 | [function, factors](https://github.com/ms624atyale/Python_Basics/blob/main/8_DefiningFunctions.ipynb)| 21 | More about Strings, Functions, and Factors 🐹 | [strings, functions, &factors](https://github.com/ms624atyale/Python_Basics/blob/main/18_MoreaboutStringsFunctionsFactors.ipynb)| 
 | 10  | Global & Local Parameters 🌐 | [global, local](https://github.com/ms624atyale/Python_Basics/blob/main/9_GlobalLocalParameters.ipynb)| 22 | Files 🔍 | [step-by-step, big-size data](https://github.com/ms624atyale/Python_Basics/blob/main/19_Files.ipynb)|  
-| 11 | Package, Module, & Function 🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | Class 📂 🎲 | Object |   
+| 11 | Library, Module, & Function 🎁 | [install, import, call](https://github.com/ms624atyale/Python_Basics/blob/main/10_InstallPackages_ImportModlues_CallFunctions.ipynb)|23 | Class 📂 🎲 | Object |   
 |12 | Samples for Natural Language Processing 💯|[replace, append, pop, queries, lottery](https://github.com/ms624atyale/Python_Basics/blob/main/20_Samples4NLP.ipynb)| 24 | Under construction 💯|[]()|
 |Extra1|Github Markdown Emoji 🐹 |[cute stuff](https://gist.github.com/rxaviers/7360908) |Extra2| Markdown Syntax 🐣 |[bullets, font color](https://www.markdownguide.org/basic-syntax/) |
 
@@ -38,11 +38,12 @@ Some applications
 |:--|:---|:---:|
 | 1 | Get text ready for further analysis 📚  | [txt, html, raw](https://github.com/ms624atyale/Class_Activities/blob/main/30_ReadFilesImportingfrom_html.ipynb)| 
 | 2 | Tokenization 📚⛅ | [cleaning, normalization, tokenization](https://github.com/ms624atyale/Python_Basics/blob/main/28_Tokenization_VariousWays.ipynb)|
-| 3 |Tagging & Word Cloud 🔉 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
-| 4 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
-| 5 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
-| 6 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
-| 7 | Vocabulary Drills 🔖🐣  | [Words by GC, Rhyming, English Vowel Chart, Minimal Pair, Rhyme-sharing Word List](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
-| 8 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
-| 89 | Digital Humanities 📈😮🐳| [Topic Modeling, Sentiment Analysis, Clustering Analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
+| 3 | Lexical Diversity  🍱  | [collocation, concordance](https://github.com/ms624atyale/Python_Basics/blob/main/32_LexicalAnalysis_ConcondanceCollateration.ipynb) |
+| 4 |Tagging & Word Cloud 🌈🎏 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
+| 5 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
+| 6 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
+| 7 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
+| 8 | Vocabulary Drills 🔖🐣  | [Words by GC, Rhyming, English Vowel Chart, Minimal Pair, Rhyme-sharing Word List](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
+| 89 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
+| 10 | Digital Humanities 📈😮🐳| [Topic Modeling, Sentiment Analysis, Clustering Analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
