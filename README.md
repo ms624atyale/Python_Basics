@@ -42,8 +42,8 @@ Some applications
 | 4 |Tagging & Word Cloud 🌈🎏 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
 | 5 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
 | 6 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
-| 7 | Samples for Natural Language Processing 📚⛅ | [Stem, Lemma, Stopwords, Regular Expression, Corpus, Word Cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
-| 8 | Vocabulary Drills 🔖🐣  | [Words by GC, Rhyming, English Vowel Chart, Minimal Pair, Rhyme-sharing Word List](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
+| 7 | Samples for Natural Language Processing 📚⛅ | [stem, lemma, stopwords, regular expression, corpus, word cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
+| 8 | Vocabulary Drills 🔖🐣  | [words by grammatical categories, rhyming, English vowel chart, minimal pair, rhyme-sharing word list](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
 | 89 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
-| 10 | Digital Humanities 📈😮🐳| [Topic Modeling, Sentiment Analysis, Clustering Analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
+| 10 | Digital Humanities 📈😮🐳| [topic modeling, sentiment analysis, clustering analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
