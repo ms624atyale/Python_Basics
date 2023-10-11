@@ -38,7 +38,7 @@ Some applications
 |:--|:---|:---:|
 | 1 | Get text ready for further analysis 📚  | [txt, html, raw](https://github.com/ms624atyale/Class_Activities/blob/main/30_ReadFilesImportingfrom_html.ipynb)| 
 | 2 | Tokenization 📚⛅ | [cleaning, normalization, tokenization](https://github.com/ms624atyale/Python_Basics/blob/main/28_Tokenization_VariousWays.ipynb)|
-| 3 | Lexical Diversiy  🍱  | [token-to-type-ratio (TTR)](https://github.com/ms624atyale/Python_Basics/blob/main/LexicalDiversity_Aesop4Children.ipynb) |
+| 3 | Lexical Diversiy  📐  | [token-to-type-ratio (TTR)](https://github.com/ms624atyale/Python_Basics/blob/main/LexicalDiversity_Aesop4Children.ipynb) |
 | 4 | Lexical Analysis  🍱  | [collocation, concordance](https://github.com/ms624atyale/Python_Basics/blob/main/32_LexicalAnalysis_ConcondanceCollateration.ipynb) |
 | 5 |Tagging & Word Cloud 🌈🎏 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
 | 6 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
