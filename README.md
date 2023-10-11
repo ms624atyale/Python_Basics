@@ -38,12 +38,13 @@ Some applications
 |:--|:---|:---:|
 | 1 | Get text ready for further analysis 📚  | [txt, html, raw](https://github.com/ms624atyale/Class_Activities/blob/main/30_ReadFilesImportingfrom_html.ipynb)| 
 | 2 | Tokenization 📚⛅ | [cleaning, normalization, tokenization](https://github.com/ms624atyale/Python_Basics/blob/main/28_Tokenization_VariousWays.ipynb)|
-| 3 | Lexical Diversity  🍱  | [collocation, concordance](https://github.com/ms624atyale/Python_Basics/blob/main/32_LexicalAnalysis_ConcondanceCollateration.ipynb) |
-| 4 |Tagging & Word Cloud 🌈🎏 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
-| 5 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
-| 6 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
-| 7 | Samples for Natural Language Processing 📚⛅ | [stem, lemma, stopwords, regular expression, corpus, word cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
-| 8 | Vocabulary Drills 🔖🐣  | [words by grammatical categories, rhyming, English vowel chart, minimal pair, rhyme-sharing word list](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
-| 89 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
-| 10 | Digital Humanities 📈😮🐳| [topic modeling, sentiment analysis, clustering analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
+| 3 | Lexical Diversiy  🍱  | [token-to-type-ratio (TTR)](https://github.com/ms624atyale/Python_Basics/blob/main/LexicalDiversity_Aesop4Children.ipynb) |
+| 4 | Lexical Analysis  🍱  | [collocation, concordance](https://github.com/ms624atyale/Python_Basics/blob/main/32_LexicalAnalysis_ConcondanceCollateration.ipynb) |
+| 5 |Tagging & Word Cloud 🌈🎏 | [tagging, grammatical-category, word clouds, backgroud](https://github.com/ms624atyale/Python_Basics/blob/main/WordCloud_ModifiedfromMK316.ipynb)|
+| 6 | Digital Signal Processing 🔉 | [sampling rate, frequency, phasor, generating pitches ](https://github.com/ms624atyale/Python_Basics/blob/main/31_DigitalSignalProcessing_ModifiedfromHSNam95.ipynb)|
+| 7 | Pronunciation Drills 🎧 | [input, generating audio, play ](https://github.com/ms624atyale/Python_Basics/blob/main/22_Text2Speech_ModifiedfromMK316.ipynb)|
+| 8 | Samples for Natural Language Processing 📚⛅ | [stem, lemma, stopwords, regular expression, corpus, word cloud](https://github.com/ms624atyale/Python_Basics/blob/main/25_samples4nlp_ModifiedfromHSNam95.ipynb)|
+| 9 | Vocabulary Drills 🔖🐣  | [words by grammatical categories, rhyming, English vowel chart, minimal pair, rhyme-sharing word list](https://github.com/ms624atyale/Python_Basics/blob/main/23_VocabularyDrills_ModifiedfromMK316.ipynb)| 
+| 10 | NLP Ⓜ️  | [tokenize, stopwords, POS, collocation, collateration, WC](https://github.com/ms624atyale/Python_Basics/blob/main/29_STwordsPOSCollocationConcordanceWC_ModifiedfromHSNam95_Junkyuhufs.ipynb)|
+| 11 | Digital Humanities 📈😮🐳| [topic modeling, sentiment analysis, clustering analysis](https://github.com/ms624atyale/Python_Basics/blob/main/24_NLP_DigitalHumanities_ModifiedfromJunkyuhufs.ipynb)|
 # Have fun! :icecream::tropical_drink::cake::apple::watermelon:
